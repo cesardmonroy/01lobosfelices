@@ -1,13 +1,8 @@
-# 01 lobos felices
+# 01 Lobos Felices
 
-cursos programación para videojuegos
-
-
+### Cursos de programación para videojuegos
 
 **César David Monroy R**
+*Docente — Ingeniería Multimedia*
 
-![Lobos felices](C:/Users/talle/Documents/GitHub/01lobosfelices/Cesar/Cesar.jpg)
-<img src="C:/Users/talle/Documents/GitHub/01lobosfelices/Cesar/Cesar.jpg" width="400">
-
-docente Ingeniería Multimedia
-
+<img src="./Cesar/Cesar.jpg" width="400" alt="Lobos felices">
